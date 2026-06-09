@@ -79,7 +79,7 @@ This dashboard helps organizations:
 - Make data-driven HR decisions
 
 ## Repository Structure
-
+'''
 HR-Analytics-Dashboard/
 │
 ├── HRDataAnalysis.pbix
@@ -88,7 +88,7 @@ HR-Analytics-Dashboard/
 │   └── dashboard.png
 └── dataset/
     └── HR_Analytics.csv
-
+'''
 ## Author
 Kartik
 
